@@ -3,14 +3,14 @@ Thanks for taking the time to interview with Aptible! We’re excited to get to 
 
 If you have questions at any point, please reach out to the hiring manager or main point of contact. We want to make the experience of interviewing with Aptible as delightful, efficient, fair, respectful, and transparent as possible.
 ## What We Look For
-It’s not quite fair for us to jump right into the interview process without giving you some insight into what we’re looking for. Aptible is currently at an exciting stage in its growth, and our ability to achieve our mission is contingent on building an exceptional team and ensuring that team performs at a high level. You can read more about how we think about our team in our [Talent and Compensation Philosophy](http://about-aptible/talent.md).
+It’s not quite fair for us to jump right into the interview process without giving you some insight into what we’re looking for. Aptible is currently at an exciting stage in its growth, and our ability to achieve our mission is contingent on building an exceptional team and ensuring that team performs at a high level. You can read more about how we think about our team in our [Talent and Compensation Philosophy](about-aptible/talent.md).
 
-Outside of role-specific competencies that hiring managers seek to test during the interview process, there are specific behaviors we look for in all candidates: 
+Outside of role-specific competencies that hiring managers seek to test during the interview process, there are specific behaviors we look for in all candidates:
 
 ### Aptible Values
-These specific behaviors are markers that a candidate will help our team maintain and improve upon our [values and culture](http://about-aptible/values.md). We think of our [values as verbs](https://twitter.com/simonsinek/status/1398040588025466881?lang=en), and we look for team members who will not only naturally make decisions that are consistent with our values but help us to expand our understanding of what makes a great Aptible team member. 
+These specific behaviors are markers that a candidate will help our team maintain and improve upon our [values and culture](about-aptible/values.md). We think of our [values as verbs](https://twitter.com/simonsinek/status/1398040588025466881?lang=en), and we look for team members who will not only naturally make decisions that are consistent with our values but help us to expand our understanding of what makes a great Aptible team member.
 
-[Read more about Aptible’s values here.](http://about-aptible/values.md)
+[Read more about Aptible’s values here.](about-aptible/values.md)
 
 We hope that by sharing our values not only do we help candidates understand whether Aptible might be a good fit for them, but also we help candidates prepare relevant examples and stories from their background and experience that demonstrate consistency with these values.
 
@@ -48,9 +48,9 @@ We believe that the work sample exercise is an important part of the process, in
 
 While you will be working on sample projects relevant to Aptible, work samples are not “free labor” for Aptible. Most importantly, you’ll be compensated for your time completing the work sample.
 ### Values Interviews
-At Aptible, our values form the foundation of our commitment to achieving [Aptible’s mission](http://mission-strategy.md). We believe that alignment with our values does not imply a homogenous culture, but instead, a dynamic one. By this, we acknowledge that our values allow for an infinite number of ways for each person to contribute to our culture and our mission through their individual skills, perspectives and experiences. To that end, regardless of function or seniority, we ask a standard set of questions that help us understand your motivations and alignment with Aptible's values. We encourage you to review and give thought to them in advance and be prepared to share relevant, specific examples from your past professional experience.
+At Aptible, our values form the foundation of our commitment to achieving [Aptible’s mission](mission-strategy.md). We believe that alignment with our values does not imply a homogenous culture, but instead, a dynamic one. By this, we acknowledge that our values allow for an infinite number of ways for each person to contribute to our culture and our mission through their individual skills, perspectives and experiences. To that end, regardless of function or seniority, we ask a standard set of questions that help us understand your motivations and alignment with Aptible's values. We encourage you to review and give thought to them in advance and be prepared to share relevant, specific examples from your past professional experience.
 
-It's important to note that we're not looking for a 'fit' for our culture: We use this interview to understand how you'll contribute to our culture and help move it forward with your own unique perspective and experiences. 
+It's important to note that we're not looking for a 'fit' for our culture: We use this interview to understand how you'll contribute to our culture and help move it forward with your own unique perspective and experiences.
 ### References
 Lastly, Aptible conducts calls with current or past colleagues who have directly supervised you and/or can speak directly to your work. We will ask you to provide email addresses and brief descriptions of your working relationship with 3-4 References. A member of our hiring team will email them to find a time to connect, then follow up with you once the calls are completed.
 ## Interviewing FAQs
@@ -61,7 +61,7 @@ We are a casual bunch. Feel free to wear something that you are comfortable in! 
 ### Help! I have a scheduling conflict, what do I do?
 If you need to reschedule due to an unforeseen emergency, we’re here to help. Please email the hiring manager or your main point of contact as soon as possible.
 ### I'm outside of the US, will I still be compensated for my work exercise?
-Yes! For all candidates who complete our work sample, you will be compensated for your time regardless of your geographic region. We use [bill.com](https://www.bill.com/) for all work exercise compensation, and you will be sent instructions from our Finance team to get that set up. Please note that the standard payment process can take up to 1-3 weeks depending on your region. 
+Yes! For all candidates who complete our work sample, you will be compensated for your time regardless of your geographic region. We use [bill.com](https://www.bill.com/) for all work exercise compensation, and you will be sent instructions from our Finance team to get that set up. Please note that the standard payment process can take up to 1-3 weeks depending on your region.
 ### I’m not familiar with Zoom, how can I prepare?
 We recommend checking out the below resources to help familiarize yourself with using Zoom and achieving the smoothest possible interview experience:
 - [Getting Started](https://support.zoom.us/hc/en-us/categories/200101697)
